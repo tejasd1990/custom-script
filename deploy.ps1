@@ -1,0 +1,1 @@
+New-Item -Path "C:\\" -Name "pstest" -ItemType Directory -Force

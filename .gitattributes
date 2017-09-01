@@ -1,0 +1,14 @@
+# Do not normalize line endings
+*       -text
+
+# enable better diff options for some file extensions
+*.cs    diff=csharp
+
+*.java  diff=java
+
+*.html  diff=html
+*.htm   diff=html
+
+*.c     diff=cpp
+*.cpp   diff=cpp
+*.h     diff=cpp
